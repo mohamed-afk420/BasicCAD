@@ -41,26 +41,33 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ## Mount
 
-### Description
+### Description 
+The mount is the flat part that holds thing up
 
-### Evidence
+### Evidence 
+https://cvilleschools.onshape.com/documents/fe8e46444fb23e4745f8fbfe/w/b9a9f778ce0627c8dbc88788/e/ef42094ff29d22d54fa8428a
 
-### Image
+### Image 
+I try to upload the photos but it never works
 
-### Reflection
+### Reflection 
+the mount was very easy to create and i really enjoyed it.
 
 ---
 
 
-## Fork
+## Fork 
+
 
 ### Description
-
+the fork is a fork. I think it's the thing that holds the tire in place
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/9b1e05738d9461d717deaaf7/w/390abb2bfa0ba263c2c609ad/e/b901fcb31e2613ecc7fa3810
 ### Image
+My image won't load
 
 ### Reflection
+it was very fun building this peice and it's very unique.
 
 ---
 
@@ -68,14 +75,16 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Tire
 
 ### Description
+I'm still working on the tire
+and it's extremely hard for me but I'll keep trying.
 
-### Evidence
-
+### Evidence 
+here's my evidence that i'm working on it
 ### Image
 
-### Reflection
+### Reflection 
 
----
+it is the hardest peice that i've built as of right now
 
 
 ## Wheel
