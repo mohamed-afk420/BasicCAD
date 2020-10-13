@@ -80,8 +80,8 @@ and it's extremely hard for me but I'll keep trying.
 
 ### Evidence 
 here's my evidence that i'm working on it
-### Image
-
+### Image 
+https://cvilleschools.onshape.com/documents/798398c0a75531ba4dfbbf37/w/fd22ba7414ec79ff5ce41809/e/23cf9800c424d0b0516b56e2
 ### Reflection 
 
 it is the hardest peice that i've built as of right now
@@ -89,10 +89,11 @@ it is the hardest peice that i've built as of right now
 
 ## Wheel
 
-### Description
+### Description 
+the wheel is the wheel that spns
 
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/2a5eac832ac6b3fe74f1bde2/w/34a787fda5492a91cd76cff0/e/794a5ae2ea0d90c73ac95399
 ### Image
 
 ### Reflection
@@ -102,14 +103,15 @@ it is the hardest peice that i've built as of right now
 
 ## AxleCollarBearings
 
-### Description
+### Description The axle is a part that holds things in place
 
 ### Evidence
 
-### Image
-
+### Image 
+https://cvilleschools.onshape.com/documents/951c36408d38d0e026187c45/w/44c58abbcd13b83d538b7343/e/a94a194bb99a3f860c6bf7b8
+https://cvilleschools.onshape.com/documents/9cbb16f1a9763aa77ea1c365/w/502dec9c66d98e0262011650/e/99fe2585d17e6c1eb46d6d49
 ### Reflection
-
+It was pretty simple
 ---
 
 
