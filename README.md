@@ -41,10 +41,11 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ## Mount
 
-### Description
+### Description 
+the mount is the second part of this castor project.
 
 ### Evidence
-
+the evidecce is down below
 ### Image
 
 <img src="images/mount.png" alt="The Base" width="200">
@@ -52,6 +53,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 
 ### Reflection
+it was really fun buildig it
 
 ---
 
@@ -59,13 +61,15 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Fork
 
 ### Description
+the fork is basically a fork
 
 ### Evidence
-
+the evidence is down below
 ### Image 
 <img src="images/fork.png" alt="The Base" width="200">
 
 ### Reflection
+It was very challenging but i manage to finish it.
 
 ---
 
@@ -73,8 +77,10 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Tire
 
 ### Description
+the tire is a tire
 
 ### Evidence
+the evidence is down below
 
 ### Image
 
@@ -82,6 +88,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 
 ### Reflection
+the tire was a fun one because of the the changes i had to make and it was really hard.
 
 ---
 
@@ -89,15 +96,17 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Wheel
 
 ### Description
+the wheel is a wheel
 
 ### Evidence
-
+the evidence is down below
 ### Image
 
 <img src="images/wheelaxel.png" alt="The Base" width="200">
 
 
 ### Reflection
+the wheel was challenging but I also had fun with it
 
 ---
 
@@ -105,8 +114,10 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## AxleCollarBearings
 
 ### Description
+This assignment waas 3 parts in one vid
 
 ### Evidence
+the evidence is down below
 
 ### Image
 <img src="images/axel.png" alt="The Base" width="200">
@@ -114,6 +125,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 
 ### Reflection
+It was very easy
 
 ---
 
