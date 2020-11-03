@@ -47,6 +47,10 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
+<img src="images/mount.png" alt="The Base" width="200">
+
+
+
 ### Reflection
 
 ---
@@ -58,7 +62,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Evidence
 
-### Image
+### Image 
+<img src="images/fork.png" alt="The Base" width="200">
 
 ### Reflection
 
@@ -73,6 +78,9 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
+<img src="images/tire.png" alt="The Base" width="200">
+
+
 ### Reflection
 
 ---
@@ -86,6 +94,9 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
+<img src="images/wheelaxel.png" alt="The Base" width="200">
+
+
 ### Reflection
 
 ---
@@ -98,6 +109,9 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Evidence
 
 ### Image
+<img src="images/axel.png" alt="The Base" width="200">
+
+
 
 ### Reflection
 
